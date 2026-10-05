@@ -412,7 +412,7 @@ We will use this <a href="{{ page.collaborative_notes }}">collaborative document
 
 
 
-<p><b>Pre-Workshop Set-Up and Installation:</b>TBA</p>
+<p><b>Pre-Workshop Set-Up and Installation:</b>October 19th, 2-3p (virtual; contact Ellen Gee (gee.ellen@gene.com))</p>
 
 {% comment %}
 
