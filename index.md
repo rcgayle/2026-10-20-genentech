@@ -417,7 +417,7 @@ We will use this <a href="{{ page.collaborative_notes }}">collaborative document
 <p><b>Links to the Capentries curricula which we will cover in this workshop:</b></p>
 
 <p><a href="https://swcarpentry.github.io/shell-novice/">Shell Lesson</a></p>
-<p><a href="https://librarycarpentry.github.io/lc-git/">Git Lesson</a></p>
+<p><a href="https://swcarpentry.github.io/git-novice/">Git Lesson</a></p>
 <p><a href="https://swcarpentry.github.io/r-novice-inflammation/">R Programming Lesson</a></p>
 
 {% comment %}
